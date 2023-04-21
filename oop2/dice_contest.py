@@ -3,7 +3,8 @@
    Running a simulation with our classes"""
 
 # import our classes
-from cheatdice import *
+from cheatdice import Cheat_Swapper
+from cheatdice import Cheat_Loaded_Dice
 
 def main():
     """called at runtime"""
